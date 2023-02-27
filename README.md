@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @irehmaan
-- 👀 Interested in ... android os dev and app dev.
-- 🌱 Currently learning ... to build custom recovries, roms.
-- 💞️ Looking to collaborate on ... any project that'd prove to be learning for me.
+- 👀 Interested in IoT product development.
 - 📫 How to reach me rehmaankhan287@gmail.com
 
 <!---
