@@ -3,7 +3,7 @@
 
 I'm passionate about exploring the potential of the **Internet of Things (IoT)** and leveraging its capabilities to create innovative solutions. I have hands-on experience working with various microcontrollers, including **ESP32, NodeMCU, and Arduino**, to build IoT projects that bridge the physical and digital worlds.
 
-In addition to IoT, ** I'm also an intermediate app developer using Flutter**. Flutter is a powerful framework for building cross-platform mobile applications, and I enjoy utilizing its capabilities to create intuitive and visually appealing apps.
+In addition to IoT,** ** I'm also an intermediate app developer using Flutter****. Flutter is a powerful framework for building cross-platform mobile applications, and I enjoy utilizing its capabilities to create intuitive and visually appealing apps.
 
 **Projects**
 
