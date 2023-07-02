@@ -22,11 +22,13 @@ NewsApp: A Flutter app that fetches news articles using the NewsAPI and displays
 Amazon Music Clone: Currently, I'm working on an exciting project—a clone of the Amazon Music app. It aims to replicate the core features of the original app, including music streaming, playlists, recommendations, and user profiles.
 
 **3. Microcontroller Projects**
+
 Home Automation with Arduino: An Arduino-based home automation system that enables users to control lights, fans, and other appliances through a mobile app or voice commands.
 
 Security System with ESP32: A security system built using ESP32 that detects motion and sends alerts to the user's smartphone. It incorporates features like live streaming, image capture, and push notifications.
 
 **Contributions and Collaborations**
+
 I'm always open to collaborations and contributions. If you find any of my projects interesting or have ideas for improvements, feel free to open issues, submit pull requests, or reach out to me for collaboration opportunities.
 
 Contact Me
