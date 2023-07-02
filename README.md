@@ -13,7 +13,7 @@ Here are some of the projects you'll find in my GitHub repositories:
 
 Smart Home Automation: A project that demonstrates the automation of home appliances using IoT technologies. It utilizes NodeMCU boards to control devices remotely through a mobile app such as Blynk IoT.
 
-Weather Monitoring System: An IoT-based basic weather monitoring system built with ESP32. It collects weather data from sensors(DHT11 & BMP 180). The sensor data is uploaded to Firebase thorugh which a it displays it on a mobile app developed with help of Flutter.
+Weather Monitoring System: An IoT-based basic weather monitoring system built with ESP32. It collects weather data from sensors(DHT11 & BMP 180). The sensor data is uploaded to Firebase thorugh which  it displays it on a mobile app developed with help of Flutter.
 
 **2. Flutter Apps**
 
@@ -31,7 +31,8 @@ Security System with ESP32: A security system built using ESP32 that detects mot
 
 I'm always open to collaborations and contributions. If you find any of my projects interesting or have ideas for improvements, feel free to open issues, submit pull requests, or reach out to me for collaboration opportunities.
 
-Contact Me
+**Contact Me**
+
 You can reach me via email at rehmaankhan287@gmail.com. I'm open to discussing new projects, sharing ideas, or answering any questions you may have.
 
 Let's connect and build amazing things together!
