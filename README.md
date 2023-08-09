@@ -1,42 +1,37 @@
+<h1 align="center">Hi 👋, I'm Imdadul Rehmaan</h1>
+<h3 align="center">IoT enthusiast, Front End Developer</h3>
 
-**About Me**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=irehmaan&label=Profile%20views&color=0e75b6&style=flat" alt="irehmaan" /> </p>
 
-I'm passionate about exploring the potential of the **Internet of Things (IoT)** and leveraging its capabilities to create innovative solutions. I have hands-on experience working with various microcontrollers, including **ESP32, NodeMCU, and Arduino**, to build IoT projects that bridge the physical and digital worlds.
+- 🌱 I’m currently learning **Flask**
 
-In addition to IoT,**I'm also an intermediate app developer using Flutter**. Flutter is a powerful framework for building cross-platform mobile applications, and I enjoy utilizing its capabilities to create intuitive and visually appealing apps.
+- 👯 I’m looking to collaborate on **Flutter FE/ IoT Projects**
 
-**Projects**
+- 👨‍💻 All of my projects are available at [github.con/irehmaan](github.con/irehmaan)
 
-Here are some of the projects you'll find in my GitHub repositories:
+- 📝 I write articles on (not regularly) [https://medium.com/@rehmaankhan287](https://medium.com/@rehmaankhan287)
 
-**1. IoT Projects**
+- 💬 Ask me about **IoT,Flutter**
 
-Smart Home Automation: A project that demonstrates the automation of home appliances using IoT technologies. It utilizes NodeMCU boards to control devices remotely through a mobile app such as Blynk IoT.
+- 📫 How to reach me **rehmaankhan@gmail.com**
 
-Weather Monitoring System: An IoT-based basic weather monitoring system built with ESP32. It collects weather data from sensors(DHT11 & BMP 180). The sensor data is uploaded to Firebase thorugh which  it displays it on a mobile app developed with help of Flutter.
+- 📄 Know about my experiences [https://drive.google.com/file/d/1amaRKWmST4xCo1l_a-nLEzTIqaKBR1DZ/view?usp=sharing](https://drive.google.com/file/d/1amaRKWmST4xCo1l_a-nLEzTIqaKBR1DZ/view?usp=sharing)
 
-**2. Flutter Apps**
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-NewsApp: A Flutter app that fetches news articles using the NewsAPI and displays them in a user-friendly format. Users can browse different categories, search for specific topics, and read full articles within the app.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/rehmaankhan16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rehmaankhan16" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/irehmaankhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="irehmaankhan" height="30" width="40" /></a>
+<a href="https://fb.com/rehmaan khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rehmaan khan" height="30" width="40" /></a>
+<a href="https://instagram.com/irehmaan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="irehmaan" height="30" width="40" /></a>
+<a href="https://medium.com/@rehmaankhan287" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rehmaankhan287" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/irehmaan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="irehmaan" height="30" width="40" /></a>
+</p>
 
-Amazon Music Clone: Currently, I'm working on an exciting project—a clone of the Amazon Music app. It aims to replicate the core features of the original app, including music streaming, playlists, recommendations, and user profiles.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-**3. Microcontroller Projects**
-
-Home Automation with Arduino: An Arduino-based home automation system that enables users to control lights, fans, and other appliances through a mobile app or voice commands.
-
-Security System with ESP32: A security system built using ESP32 that detects motion and sends alerts to the user's smartphone. It incorporates features like live streaming, image capture, and push notifications.
-
-**Contributions and Collaborations**
-
-I'm always open to collaborations and contributions. If you find any of my projects interesting or have ideas for improvements, feel free to open issues, submit pull requests, or reach out to me for collaboration opportunities.
-
-**Contact Me**
-
-You can reach me via email at rehmaankhan287@gmail.com. I'm open to discussing new projects, sharing ideas, or answering any questions you may have.
-
-Let's connect and build amazing things together!
-<!---
-irehmaan/irehmaan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=irehmaan&show_icons=true&locale=en&layout=compact" alt="irehmaan" /></p>
