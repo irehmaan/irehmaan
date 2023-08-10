@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=irehmaan&label=Profile%20views&color=0e75b6&style=flat" alt="irehmaan" /> </p>
 
-- 🌱 I’m currently learning **Flask**
+- 🌱 I’m currently learning **Flutter**
 
 - 👯 I’m looking to collaborate on **Flutter FE/ IoT Projects**
 
