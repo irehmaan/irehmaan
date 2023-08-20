@@ -13,13 +13,13 @@
 
 - 📝 I write articles on (not regularly) [https://medium.com/@rehmaankhan287](https://medium.com/@rehmaankhan287)
 
-- 💬 Ask me about **IoT,Flutter**
+- 💬 Ask me about **IoT,Flutter, Dart**
 
 - 📫 How to reach me **rehmaankhan@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1amaRKWmST4xCo1l_a-nLEzTIqaKBR1DZ/view?usp=sharing](https://drive.google.com/file/d/1amaRKWmST4xCo1l_a-nLEzTIqaKBR1DZ/view?usp=sharing)
 
-### Latest Blogs posts
+### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
