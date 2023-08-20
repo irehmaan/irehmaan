@@ -21,6 +21,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Esp32 based Weather Station with Firebase &amp; Flutter. Part-2](https://medium.com/@rehmaankhan287/esp32-based-weather-station-with-firebase-flutter-part-2-832f5d55a48?source=rss-ca66107edd6d------2)
+- [Esp32 based Weather Station with Firebase &amp; Flutter. Part-1](https://medium.com/@rehmaankhan287/esp32-based-weather-station-with-firebase-flutter-part-1-f8df6689c9d3?source=rss-ca66107edd6d------2)
+- [How to configure your Flutter App with Firebase using Firebase CLI !](https://medium.com/@rehmaankhan287/how-to-configure-your-flutter-app-with-firebase-using-firebase-cli-eca42248ae92?source=rss-ca66107edd6d------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
