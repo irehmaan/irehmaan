@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/rehmaankhan16" target="blank"><img src="https://img.shields.io/twitter/follow/rehmaankhan16?logo=twitter&style=for-the-badge" alt="rehmaankhan16" /></a> </p>
 
-- 🌱 I’m currently learning **Flask**
+- 🌱 I’m currently learning **Flutter**
 
 - 👯 I’m looking to collaborate on **Flutter FE/ IoT Projects**
 
