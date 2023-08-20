@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1amaRKWmST4xCo1l_a-nLEzTIqaKBR1DZ/view?usp=sharing](https://drive.google.com/file/d/1amaRKWmST4xCo1l_a-nLEzTIqaKBR1DZ/view?usp=sharing)
 
-### Blogs posts
+### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
