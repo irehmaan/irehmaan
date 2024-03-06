@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **rehmaankhan@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/11VC8Vd9PJSUWiwwmW8uFOj_yK0GdQz50/view?usp=drive_link](https://drive.google.com/file/d/11VC8Vd9PJSUWiwwmW8uFOj_yK0GdQz50/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/11VC8Vd9PJSUWiwwmW8uFOj_yK0GdQz50/view?usp=drive_link](https://drive.google.com/file/d/19bLS8feXV7H7Ah6dpWSme5C5XtQh0_FX/view)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
