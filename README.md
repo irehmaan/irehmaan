@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Imdadul Rehmaan</h1>
-<h3 align="center">IoT enthusiast, Flutter Developer</h3>
+<h3 align="center">Flutter Developer, IoT enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=irehmaan&label=Profile%20views&color=0e75b6&style=flat" alt="irehmaan" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👯 I’m looking to collaborate on **Flutter FE/ IoT Projects**
+- 👯 I’m looking to collaborate on **Flutter projects**
 
 - 👨‍💻 All of my projects are available at [github.con/irehmaan](github.con/irehmaan)
 
@@ -15,15 +15,12 @@
 
 - 💬 Ask me about **IoT,Flutter, Dart**
 
-- 📫 How to reach me **rehmaankhan@gmail.com**
+- 📫 How to reach me **rehmaankhan287@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/11VC8Vd9PJSUWiwwmW8uFOj_yK0GdQz50/view?usp=drive_link](https://drive.google.com/file/d/19bLS8feXV7H7Ah6dpWSme5C5XtQh0_FX/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/11VC8Vd9PJSUWiwwmW8uFOj_yK0GdQz50/view?usp=drive_link](https://drive.google.com/file/d/11VC8Vd9PJSUWiwwmW8uFOj_yK0GdQz50/view?usp=drive_link)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Esp32 based Weather Station with Firebase &amp; Flutter. Part-2](https://medium.com/@rehmaankhan287/esp32-based-weather-station-with-firebase-flutter-part-2-832f5d55a48?source=rss-ca66107edd6d------2)
-- [Esp32 based Weather Station with Firebase &amp; Flutter. Part-1](https://medium.com/@rehmaankhan287/esp32-based-weather-station-with-firebase-flutter-part-1-f8df6689c9d3?source=rss-ca66107edd6d------2)
-- [How to configure your Flutter App with Firebase using Firebase CLI !](https://medium.com/@rehmaankhan287/how-to-configure-your-flutter-app-with-firebase-using-firebase-cli-eca42248ae92?source=rss-ca66107edd6d------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
@@ -37,6 +34,6 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=irehmaan&show_icons=true&locale=en&layout=compact" alt="irehmaan" /></p>
