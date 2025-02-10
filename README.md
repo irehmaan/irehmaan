@@ -1,19 +1,17 @@
 <h1 align="center">Hi 👋, I'm Imdadul Rehmaan</h1>
-<h3 align="center">Software Developer</h3>
+<h3 align="center">Flutter Developer, IoT enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=irehmaan&label=Profile%20views&color=0e75b6&style=flat" alt="irehmaan" /> </p>
 
 <p align="left"> <a href="https://twitter.com/rehmaankhan16" target="blank"><img src="https://img.shields.io/twitter/follow/rehmaankhan16?logo=twitter&style=for-the-badge" alt="rehmaankhan16" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter**
-
-- 👯 I’m looking to collaborate on **Flutter projects**
+- 🌱 I’m currently working as an IoT Software Enginner at Motherson Technology and Services Ltd.
 
 - 👨‍💻 All of my projects are available at [github.con/irehmaan](github.con/irehmaan)
 
 - 📝 I write articles on (not regularly) [https://medium.com/@rehmaankhan287](https://medium.com/@rehmaankhan287)
 
-- 💬 Ask me about **IoT,Flutter, Dart**
+- 💬 Ask me about **iDAC, IoT, Flutter, MES, Automation**
 
 - 📫 How to reach me **rehmaankhan287@gmail.com**
 
